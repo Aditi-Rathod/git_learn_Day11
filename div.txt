@@ -1,0 +1,6 @@
+//This is for division
+int division()
+{
+int a=4,b=2;
+return a/b;
+}
