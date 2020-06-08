@@ -1,0 +1,7 @@
+//This is for addition
+
+int add()
+{
+int a=4,b=5;
+return a+b;
+}

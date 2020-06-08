@@ -1,0 +1,7 @@
+//This is for subtraction 
+
+int sub()
+{
+int a=5,b=4;
+return a-b;
+}
